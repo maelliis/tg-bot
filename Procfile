@@ -1,0 +1,1 @@
+worker: python kos2.ua
